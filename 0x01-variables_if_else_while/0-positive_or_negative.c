@@ -1,6 +1,6 @@
 /*
  * File: 0-positive_or_negative.c
- * Auth: Ilhan Mohamed
+ * Author: Pauline Esther
  */
 
 #include <stdlib.h>
