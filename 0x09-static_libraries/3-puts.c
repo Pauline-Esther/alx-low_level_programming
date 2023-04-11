@@ -7,7 +7,7 @@
 /**
  * _puts - a funtion that prints a string
  *followed by a new line to stdout
- *@char: input s
+ *@s: input
  * Return: (void)
  */
 
