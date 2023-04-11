@@ -4,7 +4,15 @@
 #include <ctype.h>
 #include <string.h>
 
+/**
+ * _puts - a funtion that prints a string
+ *followed by a new line to stdout
+ *@char: input s
+ * Return: (void)
+ */
+
 void _puts(char *s)
+
 {
-    puts(s);
+puts(s);
 }
